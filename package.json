@@ -1,0 +1,15 @@
+{
+  "name": "dlq-receiver",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "receiver.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/service-bus": "^7.9.0"
+  }
+}
